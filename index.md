@@ -15,3 +15,9 @@ This assignment is the first assignment and we had to explain a program by cover
 This assignment goes into how repeats work and showcases this by Snap instructions 
 
 [![Watch the video](thumbnail2.png)](https://youtu.be/ORjjE-Xc1L0)
+
+## Assignment 3: Repeats in Scratch (Teaching Programming Portfolio Quest)
+
+This assignment goes into how repeats work and showcases this by Scratch instructions 
+
+[![Watch the video](thumbnail3.png)](https://youtu.be/Arl8tCB56Yc)
