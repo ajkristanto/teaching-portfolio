@@ -21,3 +21,10 @@ This assignment goes into how repeats work and showcases this by Snap instructio
 This assignment goes into how repeats work and showcases this by Scratch instructions 
 
 [![Watch the video](thumbnail3.png)](https://youtu.be/Arl8tCB56Yc)
+
+
+## Assignment 4: Nested Repeats in Snap
+
+This assignment goes into how nested repeats work and showcases this by Snap instructions 
+
+[![Watch the video](thumbnail4.png)](https://youtu.be/N37a5a3D78k)
