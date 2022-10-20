@@ -45,3 +45,11 @@ This assignment goes into how events work and showcases this by Snap instruction
 [![Watch the video](thumbnail5.png)](https://youtu.be/33d2JmwSDeM)
 
 
+## Assignment 5: Variables in Snap
+
+This assignment goes into how variables work and showcases this by Snap instructions 
+
+[![Watch the video](thumbnail6.png)](https://youtu.be/TnBty7PNsPE)
+
+
+
