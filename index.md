@@ -55,7 +55,7 @@ This assignment goes into how variables work and showcases this by Snap instruct
 
 --- 
 
-## Assignment 7: Conditional Repeats in Snap
+## Assignment 8: Conditional Repeats in Snap
 
 This assignment goes into how conditional repeats work and showcases this by Snap instructions 
 
