@@ -62,3 +62,12 @@ This assignment goes into how conditional repeats work and showcases this by Sna
 [![Watch the video](thumbnail7.png)](https://youtu.be/WVyk6lGXlpo)
 
 
+--- 
+
+## Assignment 7: If-else Statements in Snap
+
+This assignment goes into how conditional if-else statements work and showcases this by Snap instructions 
+
+[![Watch the video](thumbnail8.png)](https://youtu.be/PcVcvAwFiT8)
+
+
