@@ -55,7 +55,7 @@ This assignment goes into how variables work and showcases this by Snap instruct
 
 --- 
 
-## Assignment 8: Conditional Repeats in Snap
+## Assignment 7: Conditional Repeats in Snap
 
 This assignment goes into how conditional repeats work and showcases this by Snap instructions 
 
@@ -64,10 +64,16 @@ This assignment goes into how conditional repeats work and showcases this by Sna
 
 --- 
 
-## Assignment 7: If-else Statements in Snap
+## Assignment 8: If-else Statements in Snap
 
 This assignment goes into how conditional if-else statements work and showcases this by Snap instructions 
 
 [![Watch the video](thumbnail8.png)](https://youtu.be/PcVcvAwFiT8)
 
+--- 
 
+## Assignment 9: Nested If-else Statements in Snap
+
+This assignment goes into how nested if-else statements work and showcases this by Snap instructions 
+
+[![Watch the video](thumbnail9.png)](https://youtu.be/KKzObRXAoVQ)
