@@ -77,3 +77,11 @@ This assignment goes into how conditional if-else statements work and showcases 
 This assignment goes into how nested if-else statements work and showcases this by Snap instructions 
 
 [![Watch the video](thumbnail9.png)](https://youtu.be/KKzObRXAoVQ)
+
+
+
+## Assignment 10: Compound Conditional If-else Statements in Snap
+
+This assignment goes into how nested if-else statements work and showcases this by Snap instructions 
+
+[![Watch the video](thumbnail10.png)](https://youtu.be/gPbpcqbLqQs)
