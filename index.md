@@ -91,5 +91,5 @@ This assignment goes into how nested if-else statements work and showcases this 
 
 This assignment goes into how functions work and showcases this by Snap instructions 
 
-[![Watch the video](thumbnail11.png)](https://youtu.be/2ryBpq1zze4)
+[![Watch the video](thumbnail11.png)](https://youtu.be/fWlgKFP8CFM)
 
