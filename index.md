@@ -85,6 +85,7 @@ This assignment goes into how nested if-else statements work and showcases this 
 This assignment goes into how nested if-else statements work and showcases this by Snap instructions 
 
 [![Watch the video](thumbnail10.png)](https://youtu.be/gPbpcqbLqQs)
+
 ---
 
 ## Assignment 11: Write a program: Functions in Snap
@@ -92,4 +93,14 @@ This assignment goes into how nested if-else statements work and showcases this 
 This assignment goes into how functions work and showcases this by Snap instructions 
 
 [![Watch the video](thumbnail11.png)](https://youtu.be/fWlgKFP8CFM)
+
+---
+
+## Assignment 11: Lists in Snap
+
+This assignment goes into how lists work and showcases this by Snap instructions 
+
+[![Watch the video](thumbnail12.png)](https://youtu.be/Ez-nHGMFCoo)
+
+
 
